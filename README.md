@@ -17,7 +17,8 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 Para iniciar o desenvolvimento é necessário clonar o projeto do GitHub em um diretório de sua preferência:
 
 cd "diretorio de sua preferencia"
-git clone https://github.com/fl0101/calculator verficar
+
+git clone 'https://github.com/fl0101/calculator'
 
 # Configuração
 
