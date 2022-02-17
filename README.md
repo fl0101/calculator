@@ -28,5 +28,3 @@ Para executar o projeto, é necessário utilizar o Pycharm. Uma vez importado o 
 # Contribuições
 
 Contribuições são sempre bem vindas! Para contribuir lembre-se sempre de realizar testes para as novas classes com a devida documentação.
-
-.
